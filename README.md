@@ -13,6 +13,18 @@ IAM is the beating heart of modern security. This repo teaches you how to config
 - Users, groups, roles, tokens
 - Cross-cloud IAM comparison (AWS, Azure, GCP)
 
+### 🔐 Authentication
+- Login flows and multi-factor authentication (MFA)
+- OAuth vs OIDC
+- Passwordless strategies (FIDO2, biometrics, magic links)
+- Common auth pitfalls and fixes
+
+### 🧮 IAM Roles
+- Service, federated, custom, and assumed roles
+- Trust policies and STS relationships
+- Session length configuration
+- Least privilege role design
+
 ### 🚨 Advanced IAM Attacks
 - Role assumption abuse
 - Wildcard + trust policy pitfalls
