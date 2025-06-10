@@ -1,7 +1,7 @@
 # 🧾 IAM Deep Dive & Labs
 
 ## 🎯 Purpose
-A complete identity and access management (IAM) security toolkit — from fundamentals to advanced misconfiguration attack paths, detection, and hands-on simulation.
+A complete identity and access management (IAM) security toolkit, from fundamentals to advanced misconfiguration attack paths, detection, and hands-on simulation.
 
 IAM is the beating heart of modern security. This repo teaches you how to configure it, break it, and defend it.
 
